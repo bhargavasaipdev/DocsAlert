@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DocsAlert</string>
+    <string name="nav_home">Startseite</string>
+    <string name="nav_documents">Dokumente</string>
+    <string name="nav_calendar">Kalender</string>
+    <string name="nav_family">Familie</string>
+    <string name="nav_more">Mehr</string>
+    <string name="nav_settings">Einstellungen</string>
+    <string name="test_notification_title">DocsAlert Ablauferinnerung</string>
+    <string name="test_notification_body">🔔 Ihre Dokumentenablauferinnerungen sind aktiv! DocsAlert benachrichtigt Sie vor dem Ablauf wichtiger Dokumente.</string>
+</resources>

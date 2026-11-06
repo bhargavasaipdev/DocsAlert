@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DocsAlert</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_documents">Items</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_family">Family</string>
+    <string name="nav_more">More</string>
+    <string name="nav_settings">Settings</string>
+    <string name="test_notification_title">DocsAlert Expiry Reminder</string>
+    <string name="test_notification_body">🔔 Your expiry alerts are active! DocsAlert will notify you before your important items, bills, and policies expire.</string>
+</resources>

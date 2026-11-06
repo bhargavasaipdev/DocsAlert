@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DocsAlert</string>
+    <string name="nav_home">होम</string>
+    <string name="nav_documents">दस्तावेज़</string>
+    <string name="nav_calendar">कैलेंडर</string>
+    <string name="nav_family">परिवार</string>
+    <string name="nav_more">अधिक</string>
+    <string name="nav_settings">सेटिंग्स</string>
+    <string name="test_notification_title">DocsAlert समाप्ति अनुस्मारक</string>
+    <string name="test_notification_body">🔔 आपके दस्तावेज़ समाप्ति अलर्ट सक्रिय हैं! आपके महत्वपूर्ण दस्तावेज़ समाप्त होने से पहले DocsAlert आपको सूचित करेगा।</string>
+</resources>

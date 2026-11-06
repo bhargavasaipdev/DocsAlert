@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DocsAlert</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_documents">Documentos</string>
+    <string name="nav_calendar">Calendario</string>
+    <string name="nav_family">Familia</string>
+    <string name="nav_more">Más</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="test_notification_title">Recordatorio de vencimiento DocsAlert</string>
+    <string name="test_notification_body">🔔 ¡Sus alertas de vencimiento de documentos están activas! DocsAlert le notificará antes de que expiren sus documentos importantes.</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DocsAlert</string>
+    <string name="nav_home">Accueil</string>
+    <string name="nav_documents">Documents</string>
+    <string name="nav_calendar">Calendrier</string>
+    <string name="nav_family">Famille</string>
+    <string name="nav_more">Plus</string>
+    <string name="nav_settings">Paramètres</string>
+    <string name="test_notification_title">Rappel d\'expiration DocsAlert</string>
+    <string name="test_notification_body">🔔 Vos alertes d\'expiration de documents sont actives! DocsAlert vous enverra un rappel avant l\'expiration de vos documents importants.</string>
+</resources>
