@@ -28,9 +28,17 @@ class MainActivity : FragmentActivity() {
         val splashScreen = installSplashScreen()
         super.onCreate(savedInstanceState)
         
-        MobileAds.initialize(this) {
-            com.docsalert.reminder.util.RewardedAdHelper.loadAd(this)
-            com.docsalert.reminder.util.InterstitialAdHelper.loadAd(this)
+        try {
+            MobileAds.initialize(this) {
+                try {
+                    com.docsalert.reminder.util.RewardedAdHelper.loadAd(this)
+                    com.docsalert.reminder.util.InterstitialAdHelper.loadAd(this)
+                } catch (e: Exception) {
+                    // Ignore ad loading exceptions
+                }
+            }
+        } catch (e: Exception) {
+            // Ignore MobileAds initialization exceptions
         }
         
         enableEdgeToEdge()
